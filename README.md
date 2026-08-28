@@ -8,10 +8,10 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-Load employee data and split it into training and testing sets.
-Train a Decision Tree classifier using entropy as the split criterion.
-Evaluate the model using accuracy, confusion matrix, and classification report.
-Use the trained model to predict whether a new employee will stay or leave.
+1. Load employee data and split it into training and testing sets.   
+2. Train a Decision Tree classifier using entropy as the split criterion.  
+3. Evaluate the model using accuracy, confusion matrix, and classification report.  
+4. Use the trained model to predict whether a new employee will stay or leave.  
 
 ## Program:
 ```
